@@ -22,4 +22,5 @@ This project simulates a cyber security incident management system where analyst
 - GitHub
 
 ## 👨‍💻 Author
-Database Programming Assignment
+Mohammmed (Orin)
+
